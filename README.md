@@ -3,7 +3,9 @@
 
 This notebook demonstrates the fine-tuning of the **CodeT5-small** model for generating commit messages from commit diffs. The project includes synthetic data generation, model training, and evaluation with metrics like BLEU, ROUGE, and METEOR.
 
-![Training Loss Plot](loss_plot.png) *(Example training/evaluation loss curve)*
+![Training Loss Plot](fig1.png) *(Example training/evaluation loss curve)*
+
+![Training Loss Plot](fig2.png) *(Example training/evaluation loss curve)*
 
 ## Key Features
 
