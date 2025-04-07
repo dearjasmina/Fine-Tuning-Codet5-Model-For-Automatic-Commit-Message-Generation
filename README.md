@@ -5,7 +5,7 @@ This notebook demonstrates the fine-tuning of the **CodeT5-small** model for gen
 
 ![Training Loss Plot](fig1.png) *(Example training/evaluation loss curve)*
 
-![Training Loss Plot](fig2.png) *(Example training/evaluation loss curve)*
+![Training Loss Plot](fig2.png) *(Example metrics evaluation)*
 
 ## Key Features
 
